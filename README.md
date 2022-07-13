@@ -15,3 +15,8 @@
 <img src="https://github.com/Chinmay189jain/Expense-Manager/blob/main/git_images/7.jpg" width="200" height="400"> &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://github.com/Chinmay189jain/Expense-Manager/blob/main/git_images/8.jpg" width="200" height="400"> &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://github.com/Chinmay189jain/Expense-Manager/blob/main/git_images/9.jpg" width="200" height="400"> 
+
+## <ins>Video:</ins>
+<video src="https://user-images.githubusercontent.com/66813313/178688165-985b63de-c82e-49f5-bf68-1f4d2ca25fe3.mp4" type="video/mp4" width="200" height="400">
+
+
