@@ -17,7 +17,6 @@
 <img src="https://user-images.githubusercontent.com/66813313/205494201-ba6b3157-b65b-4648-9f25-8152c8ea6043.jpg" width="200" height="400"> 
 
 ## <ins>Demo:</ins>
-<img src="https://github.com/Chinmay189jain/Expense-Manager/blob/main/git_images/Demo.gif" width="200" height="400">
-
+<img src="https://user-images.githubusercontent.com/66813313/205495969-4fb8cf08-e653-45c3-8590-d4d962ec0a18.gif" width="200" height="400">
 
 
